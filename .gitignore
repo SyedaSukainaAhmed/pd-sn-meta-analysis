@@ -1,0 +1,6 @@
+*.CEL
+*.CEL.gz
+*.RData
+*.rds
+.Rhistory
+.Rproj.user/
