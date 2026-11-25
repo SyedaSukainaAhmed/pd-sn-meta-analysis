@@ -1,0 +1,106 @@
+"ID","Description","Count","p.adjust"
+"GO:0099003","vesicle-mediated transport in synapse",28,9.09488140242535e-08
+"GO:0099504","synaptic vesicle cycle",26,9.09488140242535e-08
+"GO:0051648","vesicle localization",23,1.30938609114464e-05
+"GO:0051650","establishment of vesicle localization",21,4.64180277795776e-05
+"GO:0048489","synaptic vesicle transport",10,4.67059972324547e-05
+"GO:0016079","synaptic vesicle exocytosis",14,4.67059972324547e-05
+"GO:0097479","synaptic vesicle localization",11,0.00012496803829864
+"GO:0007269","neurotransmitter secretion",16,0.000181483303755499
+"GO:0099643","signal release from synapse",16,0.000181483303755499
+"GO:0051640","organelle localization",36,0.000512376562102633
+"GO:0043647","inositol phosphate metabolic process",9,0.000512376562102633
+"GO:0019751","polyol metabolic process",13,0.000690117562458161
+"GO:0090407","organophosphate biosynthetic process",37,0.000853487958408252
+"GO:0016082","synaptic vesicle priming",7,0.000869894064131836
+"GO:0045055","regulated exocytosis",18,0.0016640885571724
+"GO:0006887","exocytosis",24,0.0016640885571724
+"GO:0051656","establishment of organelle localization",26,0.00166889918052007
+"GO:0006836","neurotransmitter transport",18,0.00166889918052007
+"GO:0006753","nucleoside phosphate metabolic process",36,0.00230727455223668
+"GO:0036465","synaptic vesicle recycling",11,0.00296947201679358
+"GO:0019693","ribose phosphate metabolic process",25,0.00321241882064015
+"GO:0046390","ribose phosphate biosynthetic process",16,0.00420693892661629
+"GO:0009165","nucleotide biosynthetic process",18,0.00420693892661629
+"GO:0072521","purine-containing compound metabolic process",32,0.00420693892661629
+"GO:0009117","nucleotide metabolic process",29,0.00420693892661629
+"GO:0007409","axonogenesis",24,0.00443927679832392
+"GO:0061564","axon development",26,0.00443927679832392
+"GO:0009259","ribonucleotide metabolic process",24,0.00488596793584585
+"GO:0009150","purine ribonucleotide metabolic process",23,0.00562843121217097
+"GO:1901293","nucleoside phosphate biosynthetic process",22,0.00562843121217097
+"GO:0006164","purine nucleotide biosynthetic process",16,0.00590915309194378
+"GO:0140029","exocytic process",10,0.00611320513981886
+"GO:0048812","neuron projection morphogenesis",30,0.00633348197185526
+"GO:0009260","ribonucleotide biosynthetic process",15,0.00633348197185526
+"GO:0006163","purine nucleotide metabolic process",26,0.00633956771373716
+"GO:0042391","regulation of membrane potential",26,0.00750619173522866
+"GO:0072522","purine-containing compound biosynthetic process",19,0.00776517614772141
+"GO:0009152","purine ribonucleotide biosynthetic process",14,0.00777720602174108
+"GO:0009145","purine nucleoside triphosphate biosynthetic process",11,0.00859556768972692
+"GO:0009206","purine ribonucleoside triphosphate biosynthetic process",11,0.00859556768972692
+"GO:0120039","plasma membrane bounded cell projection morphogenesis",30,0.00950993374227669
+"GO:0022900","electron transport chain",11,0.0101844971208231
+"GO:0009713","catechol-containing compound biosynthetic process",5,0.0103150748597533
+"GO:0042423","catecholamine biosynthetic process",5,0.0103150748597533
+"GO:0015980","energy derivation by oxidation of organic compounds",23,0.0103150748597533
+"GO:0048858","cell projection morphogenesis",30,0.0104216886184767
+"GO:0009201","ribonucleoside triphosphate biosynthetic process",11,0.0124685046059691
+"GO:0006091","generation of precursor metabolites and energy",25,0.0132339737028228
+"GO:0006754","ATP biosynthetic process",10,0.0132339737028228
+"GO:1902600","proton transmembrane transport",14,0.0132339737028228
+"GO:0006120","mitochondrial electron transport, NADH to ubiquinone",7,0.0132339737028228
+"GO:0017157","regulation of exocytosis",14,0.0139390816646233
+"GO:0016185","synaptic vesicle budding from presynaptic endocytic zone membrane",4,0.0142260207312993
+"GO:0048667","cell morphogenesis involved in neuron differentiation",26,0.0144426956313888
+"GO:0007416","synapse assembly",17,0.0147453318085028
+"GO:0009205","purine ribonucleoside triphosphate metabolic process",17,0.0150363875868121
+"GO:0009060","aerobic respiration",18,0.0150363875868121
+"GO:0009142","nucleoside triphosphate biosynthetic process",11,0.0150363875868121
+"GO:0140238","presynaptic endocytosis",9,0.0155949909386157
+"GO:0045333","cellular respiration",19,0.0155949909386157
+"GO:0046034","ATP metabolic process",16,0.0155949909386157
+"GO:0050804","modulation of chemical synaptic transmission",26,0.0155949909386157
+"GO:0022904","respiratory electron transport chain",10,0.0164030439435188
+"GO:0099177","regulation of trans-synaptic signaling",26,0.0164397811157163
+"GO:0009144","purine nucleoside triphosphate metabolic process",17,0.0169246850700561
+"GO:0070588","calcium ion transmembrane transport",19,0.0169246850700561
+"GO:0070142","synaptic vesicle budding",4,0.0172125067531309
+"GO:0006119","oxidative phosphorylation",11,0.0186475777929294
+"GO:0050771","negative regulation of axonogenesis",6,0.0203595083968707
+"GO:0048265","response to pain",5,0.0203595083968707
+"GO:0042773","ATP synthesis coupled electron transport",9,0.0203595083968707
+"GO:0042775","mitochondrial ATP synthesis coupled electron transport",9,0.0203595083968707
+"GO:0017156","calcium-ion regulated exocytosis",7,0.0209112710845713
+"GO:0010977","negative regulation of neuron projection development",10,0.0209112710845713
+"GO:0070585","protein localization to mitochondrion",11,0.0217748294890415
+"GO:0060078","regulation of postsynaptic membrane potential",12,0.0217748294890415
+"GO:0009309","amine biosynthetic process",6,0.0217748294890415
+"GO:0042401","biogenic amine biosynthetic process",6,0.0217748294890415
+"GO:0007612","learning",10,0.0237333448957166
+"GO:0010975","regulation of neuron projection development",22,0.0238702102936292
+"GO:0050808","synapse organization",28,0.024707057161372
+"GO:0036092","phosphatidylinositol-3-phosphate biosynthetic process",5,0.0279203025069364
+"GO:0009141","nucleoside triphosphate metabolic process",17,0.0279203025069364
+"GO:0071786","endoplasmic reticulum tubular network organization",4,0.0281839564639373
+"GO:0120035","regulation of plasma membrane bounded cell projection organization",29,0.0298047945048841
+"GO:0048638","regulation of developmental growth",15,0.0317648028809131
+"GO:2000300","regulation of synaptic vesicle exocytosis",6,0.0326961032223422
+"GO:0048488","synaptic vesicle endocytosis",8,0.0326961032223422
+"GO:0006816","calcium ion transport",22,0.0331453792867874
+"GO:0042776","proton motive force-driven mitochondrial ATP synthesis",7,0.0381825197617631
+"GO:0046173","polyol biosynthetic process",7,0.0381825197617631
+"GO:0031345","negative regulation of cell projection organization",12,0.0381825197617631
+"GO:0043648","dicarboxylic acid metabolic process",8,0.0385499042349747
+"GO:0097553","calcium ion transmembrane import into cytosol",13,0.0390662994188316
+"GO:0031344","regulation of cell projection organization",29,0.0413985713702989
+"GO:0019646","aerobic electron transport chain",8,0.0415392899773404
+"GO:0034312","diol biosynthetic process",4,0.0441530400505572
+"GO:0048588","developmental cell growth",13,0.0451856684592667
+"GO:0006584","catecholamine metabolic process",6,0.0451856684592667
+"GO:0009712","catechol-containing compound metabolic process",6,0.0451856684592667
+"GO:0023061","signal release",23,0.04569652739192
+"GO:0006066","alcohol metabolic process",19,0.04569652739192
+"GO:0006644","phospholipid metabolic process",20,0.046938317941285
+"GO:0070050","neuron cellular homeostasis",7,0.0485806296774618
+"GO:0090231","regulation of spindle checkpoint",5,0.0492579853058353
