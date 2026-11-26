@@ -1,5 +1,5 @@
 # Parkinson's disease substantia nigra transcriptome meta-analysis
-
+Archived version: https://doi.org/10.5281/zenodo.24554168 
 Code, results tables and figures for the preprint "Reproducible substantia nigra changes in Parkinson's disease track dopaminergic marker expression across samples" (Ahmed SS, 2026; bioRxiv link to be added).
 
 ## Data
